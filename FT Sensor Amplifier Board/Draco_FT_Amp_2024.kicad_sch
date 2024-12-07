@@ -5931,6 +5931,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/molex/5055780261/21812797"
+			(at 186.69 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3d05d83-8dc5-4fd4-8cca-446a5e392f3d")
 		)
